@@ -110,8 +110,9 @@ The data contains diagnostic information about patients, such as:
 
 .
 
-## 📝 License
+## 📝 Authour 
+   Alaa 
 
-This project is open-source and available under the [MIT License](LICENSE).
+
 
 
