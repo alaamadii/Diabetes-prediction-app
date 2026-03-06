@@ -110,8 +110,9 @@ The data contains diagnostic information about patients, such as:
 
 .
 
-## 📝 Authour 
+## 📝 Author 
    Alaa 
+
 
 
 
