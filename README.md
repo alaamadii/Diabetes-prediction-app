@@ -108,12 +108,10 @@ The data contains diagnostic information about patients, such as:
 - **Age**: Age (years)
 - **Outcome**: Class variable (0 or 1, where 1 means Diabetic)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! 
-Feel free to check out the [issues page](https://github.com/alaamadii/diabetes-classification/issues).
+.
 
 ## 📝 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
 
