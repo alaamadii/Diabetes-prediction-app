@@ -83,6 +83,16 @@ python train_models.py
 
 This will automatically preprocess the data, evaluate the models, and save the trained artifacts (`.pkl` files) into the `models/` directory.
 
+
+### ✅ Accuracy Summary
+
+1. Logistic Regression: **71.43%**
+2. Random Forest: **75.97%**
+3. SVM: **75.32%**
+
+Best test accuracy: **Random Forest**.
+
+
 ### 5. Run the Web Application
 
 Launch the Streamlit app to interact with the trained models:
